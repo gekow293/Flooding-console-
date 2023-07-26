@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FXOdH5BUfrXmNSsgR+qY/Fwqdkzps6pYu3pfdx4nvgnJDhhnYVSwdLXMqd1xXsjWHsZwNqWikeAUM+RWhipdSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tatiana\\Desktop\\Тестовые задания\\Java-C#-Android\\testconsoleapp\\StonesConsoleApp\\TestConsoleApp\\TestConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tatiana\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Tatiana\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Tatiana\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Tatiana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
